@@ -1,0 +1,55 @@
+body {
+    background-image: url(../images/office_@2X.png);
+    color: whitesmoke;
+  }
+.jumbotron {
+    padding: 0px;
+}
+
+button {
+    color: black;
+    margin: 10px;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 16px;
+}
+
+#addLogic {
+    margin-top: 10px;
+}
+
+p {
+    margin: 15px 0 5px 10px;
+}
+
+.gif {
+
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.footer {
+    display: inline-block;
+    bottom: 0;
+    padding-bottom: 5px;
+    width: 100%;
+    height: 110px;
+    line-height: 60px;
+    background-color: rgb(8, 8, 8);
+}
+
+.gifContainer {
+    margin: 0 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.giphyLink {
+    padding-left: 500px;
+}
+.myLink{
+    padding-left: 20px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 30px;
+}
